@@ -64,7 +64,7 @@
 ---
 
 ## 🛠️ Kontribusi
-Kami selalu terbuka untuk kontribusi dan kolaborasi. Jika Anda tertarik untuk berkontribusi, silakan lihat [panduan kontribusi kami](https://github.com/netshop.id/CONTRIBUTING.md).
+Kami selalu terbuka untuk kontribusi dan kolaborasi. Jika Anda tertarik untuk berkontribusi, silakan lihat [panduan kontribusi kami](https://github.com/netshopid/netshopid/blob/main/CONTRIBUTING.md).
 
 <div align="center">
   <img src="https://media.discordapp.net/attachments/1262757756901920819/1263364799941836841/20240612_054044_0000.png?ex=6699f7a8&is=6698a628&hm=67639f389f58297ee11235ed2a3be63a7c62bf13acbf10162270842ff9307e92&" alt="Netshop.id Additional Header" width="800"/>
