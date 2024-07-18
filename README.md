@@ -31,10 +31,10 @@
         <p>Voucher, software, dan produk digital lainnya</p>
       </td>
       <td align="center" width="150">
-  <i class="fas fa-headset" style="font-size: 80px; color: #00BFFF;"></i>
-  <br/>
-  <b>Layanan Pelanggan 24/7</b>
-  <p>Dukungan pelanggan sepanjang waktu</p>
+        <img src="https://img.icons8.com/color/96/clock--v2.png" width="80" height="80"/>
+        <br/>
+        <b>Layanan Pelanggan 24/7</b>
+        <p>Dukungan pelanggan sepanjang waktu</p>
       </td>
       <td align="center" width="150">
         <img src="https://img.icons8.com/fluency/96/000000/lock.png" width="80" height="80"/>
