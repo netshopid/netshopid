@@ -4,7 +4,7 @@
 
 <h1 align="center">Netshop.id</h1>
 <p align="center">
-  <i>Toko digital berbasis online terdepan yang menyediakan berbagai kebutuhan digital Anda dengan mudah dan cepat.</i><br/>
+  <i>Toko digital berbasis online (discord & web) terdepan yang menyediakan berbagai kebutuhan digital Anda dengan mudah dan cepat.</i><br/>
   <b>Kami menawarkan berbagai produk digital berkualitas dengan layanan pelanggan yang unggul.</b>
 </p>
 
