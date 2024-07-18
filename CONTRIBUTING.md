@@ -8,7 +8,7 @@ Terima kasih atas minat Anda untuk berkontribusi pada proyek Netshop.id! Kontrib
    - Klik tombol "Fork" di sudut kanan atas halaman ini.
    - Clone hasil fork ke mesin lokal Anda:
      ```bash
-     git clone https://github.com/username/netshop-id.git
+     git clone https://github.com/netshopid/netshop-id.git
      ```
    - Gantilah `username` dengan nama pengguna GitHub Anda.
 
